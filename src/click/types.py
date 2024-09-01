@@ -23,6 +23,7 @@ if t.TYPE_CHECKING:
     from .core import Parameter
     from .shell_completion import CompletionItem
 
+import configparser
 
 class ParamType:
     """Represents the type of a parameter. Validates and converts values

@@ -9,6 +9,9 @@ It aims to make the process of writing command line tools quick and fun
 while also preventing any frustration caused by the inability to
 implement an intended CLI API.
 
+
+test
+
 Click in three points:
 
 -   Arbitrary nesting of commands
